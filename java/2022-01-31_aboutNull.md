@@ -245,5 +245,6 @@ public class AutomaticTypeRefinement {
 
 ```
 
-# Tips
+# 강연 영상 
 
+> https://www.youtube.com/watch?v=vX3yY_36Sk4
